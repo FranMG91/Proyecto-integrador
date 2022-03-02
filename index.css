@@ -2,6 +2,7 @@
 body{
 font-family: 'Raleway', sans-serif;
 
+
 }
 
 *{
@@ -54,6 +55,7 @@ font-family: 'Raleway', sans-serif;
     text-decoration: none;
     --clippy: polygon(0 0, 0 0, 0 100%, 0% 100%);
     font-weight:700;
+    font-family: 'Secular One', sans-serif;
 
 }
 
@@ -154,10 +156,14 @@ font-family: 'Raleway', sans-serif;
 
 
 /* quienes somos */
+
+
+
+
 .presentacion{
     height: 80%;
     width: 100%;
-    background-color: rgb(228, 178, 85);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -173,12 +179,15 @@ font-family: 'Raleway', sans-serif;
     width: 100%;
     padding-top: 15px;
     font-size: 10px;
+    font-family: 'Secular One', sans-serif;
+    color: rgb(86 49 3)
 }
 
 .presentacion h3{
     color: rgb(255, 255, 255);
     font-size: 18px;
     padding: 50px;
+    font-family: 'M PLUS 1p', sans-serif;
 }
 
 .quienes_1{
@@ -197,7 +206,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 
-
+ 
 
 
 .quienes_2{
@@ -240,6 +249,8 @@ font-family: 'Raleway', sans-serif;
     width: 100%;
     padding-top: 15px;
     font-size: 10px;
+    font-family: 'Secular One', sans-serif;
+    color: rgb(86 49 3)
 }
 
 
@@ -282,6 +293,7 @@ font-family: 'Raleway', sans-serif;
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
+
 }
 
 .foto2{
@@ -387,12 +399,14 @@ font-family: 'Raleway', sans-serif;
     color: white;
     margin-bottom: 25px;
     font-size: 20px;
+    font-family: 'Secular One', sans-serif;
 }
 
 
 .pie_pagina .grupo1 .box p{
     color: rgb(255, 255, 255);
     margin-bottom: 10px;
+    font-family: 'M PLUS 1p', sans-serif;
 
 }
 
@@ -479,7 +493,7 @@ font-family: 'Raleway', sans-serif;
         position: fixed;
         top: 80px;
         bottom: 0;
-        background: rgb(236, 151, 39);
+        background: rgb(38 30 20);
         background-size: cover;
         background-position: center;
         padding-top: 2px;
@@ -503,7 +517,7 @@ font-family: 'Raleway', sans-serif;
     .nav_item{
         font-size: 1.5em;
         font-weight: 800;
-        color: rgb(175 128 23)
+        color: rgb(255, 187, 0)
     }
 
 
